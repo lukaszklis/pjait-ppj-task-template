@@ -5,7 +5,7 @@ This repo is a template which can be used for tasks (home assignments) for the P
 ## Setup
 
 1. Download the repository
-1. Change the ”YourLastName” folder
+1. Change the ”YourLastName” folder name to your last name following the _UpperCamelCase_ convention.
 
 ## Submitting PPJ home assignments
 
